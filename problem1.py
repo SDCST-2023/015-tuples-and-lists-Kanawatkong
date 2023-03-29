@@ -19,3 +19,7 @@ Enter the replacement:Dan
 ['Alain', 'Brian', 'Chris', 'Justin', 'Angela', 'Dan']
 
 """
+named = ['Alain', 'Brian', 'Chris', 'Justin', 'Angela', 'Rick']
+print(named.insert(5, 'Dan'))
+print(named.remove('Rick'))
+print(named)

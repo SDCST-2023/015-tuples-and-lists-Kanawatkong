@@ -23,3 +23,10 @@ Enter a word: virus
 
 ['apple', 'worm', 'dollar', 'shingle', 'virus']
 """
+
+List = ['apple', 'worm', 'dollar', 'shingle', 'virus']
+print(List[0])
+print(List[1])
+print(List[2])
+print(List[3])
+print(List[4])
