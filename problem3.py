@@ -24,4 +24,16 @@ Enter an integer:-1
 The largest number you entered is 92
 """
 
+List = (3, 2, 8, 92, 48, 13, 24, -1, 5, 79)
 
+print(List[0])
+print(List[1])
+print(List[2])
+print(List[3])
+print(List[4])
+print(List[5])
+print(List[6])
+print(List[7])
+print(List[8])
+print("The largest number you entered is ",end="")
+print(List[3])

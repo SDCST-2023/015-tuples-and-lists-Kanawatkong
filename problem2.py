@@ -25,4 +25,12 @@ word not in list
 """
 
 fruit = ["apple","cherry","kiwi","apple","banana","strawberry","kiwi","blueberry","kiwi"]
+fruit.remove('kiwi')
+fruit.remove('kiwi')
+fruit.remove('kiwi')
+print(fruit)
+
+fruit2 = ["apple","cherry","kiwi","apple","banana","strawberry","kiwi","blueberry","kiwi"]
+fruit2.append('orange')
+print(fruit2)
 
